@@ -32,8 +32,8 @@ Progress through structured TryHackMe learning paths.
 Track my completion status in [skills-tracker.md](./skills-tracker.md)
 
 ## 🔗 Connect
-- LinkedIn: [Your Profile]
-- Portfolio: [Your Site]
+- LinkedIn: [www.linkedin.com/in/joseph-chapman-34b363232]
+- Portfolio: [Stay Tuned]
 
 ---
 
