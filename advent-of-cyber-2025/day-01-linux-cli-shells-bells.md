@@ -64,11 +64,11 @@ Explore the Linux command line to solve challenges and uncover hidden clues in a
 - Always check hidden files and logs for anomalies
 - Script analysis reveals attacker intentions
 - Root permissions provide critical access; practice safe elevation
+- I had fun with this one and enjoyed looking for clues, as well as going through a nice Linux Command Line refresher. 
 
 ---
 
 ## 📸 Evidence
-I'm adding this to tackle the sidequest at a later time. 
-<img width="1018" height="1071" alt="side_quest_note" src="https://github.com/user-attachments/assets/d4e1c09b-e6e0-487d-9c0d-1b1aa473ea42" />
+I have no screenshots to add to this one. 
 
 
